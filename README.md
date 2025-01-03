@@ -31,23 +31,28 @@ A JavaScript calculator for a food store's ordering system that handles various 
 
 1. Clone the repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/hamzcheeze/food-calculator.git
 cd food-calculator
+```
 
 2. Install dependencies
 ```bash
 npm install
+```
 
 ## Testing
 
 Run all tests:
 ```bash
 npm test
+```
 
 Run tests in watch mode:
 ```bash
 npm run test:watch
+```
 
 Generate coverage report:
 ```bash
 npm run test:coverage
+```
